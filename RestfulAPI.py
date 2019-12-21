@@ -13,5 +13,15 @@ users = [
     
 ]
 
-
+class User(Resource)
+    
+    def get(self, name): 
+    
+    def post(self, name):
+    
+    def put(self, name):
+    
+    def delete(self, name):
+    
+    
            
